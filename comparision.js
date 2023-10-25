@@ -1,3 +1,7 @@
+// following are the copare of some code 
+
+
+
 console.log( null > 0);
 console.log(null == 0);
 console.log(null >= 0);
