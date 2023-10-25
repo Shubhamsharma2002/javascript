@@ -29,3 +29,5 @@ symbol  => unique
 
 console.log(typeof undefined);   // === undefined
  console.log(typeof null);       // == object
+
+//  check the value of tpeof operator for following
