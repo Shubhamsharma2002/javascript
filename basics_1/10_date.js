@@ -3,4 +3,4 @@ console.log(mydate.toDateString());
 
 // typeof of date is
 
-console.log(typeof mydate);
+console.log(typeof mydate); ///object 
